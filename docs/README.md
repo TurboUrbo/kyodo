@@ -1,8 +1,6 @@
 <img align="center" src="./img/kyodo_logo.svg" />
 
-# Kyodo
 
-Contracts and web app to run Kyodo project.
 
 ## Installation
 
